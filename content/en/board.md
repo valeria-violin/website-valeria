@@ -2,10 +2,19 @@
 title: "Board members"
 description: ""
 ---
-President
+President: Anton M.
 
-Secretary
+Secretary: Irina G.
 
-Treasurer
+Treasurer: Dmitrii T.
 
-Event organizers
+Event organizers: 
+- Kyryll P. - Event Organizer (board/intellectual games)
+- Andrey D. – Event Organizer (book club, running)
+- Sergey K. - Event Organizer (guitar songs, karaoke)
+- Artemiy B. - SMM/Marketing
+- Maiia G. - Event Organizer (trips)
+- Daniil E. - Event Organizer (sport)
+- Alexandra C. – Mentoring
+
+External auditor: Dmitry U.
