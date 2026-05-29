@@ -18,3 +18,4 @@ title: "Читательский клуб"
 
 ![Poster for Steppenwolf](images/book-club_Steppenwolf.jpg)
 ![Poster for Mother-night](images/book-club_Mother-night.jpg)
+![Poster for Chevengur](images/book-club_Chevengur.jpg)
