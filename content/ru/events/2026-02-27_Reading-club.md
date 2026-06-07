@@ -8,14 +8,20 @@ title: "Читательский клуб"
 
 Мы проводим ежемесячный читательский клуб.
 
-27.02.2026 - Фёдор Достоевский "Бедные люди"
+31.07.2026 - Фёдор Достоевский "Идиот"
 
-27.03.2026 - Курт Воннегут "Мать Тьма"
-
-17.04.2026 - Герман Гессе "Степной волк"
+26.06.2026 - Станислав Лем "Сумма технологии"
 
 29.05.2026 - Андрей Платонов "Чевенгур"
 
-![Poster for Steppenwolf](images/book-club_Steppenwolf.jpg)
-![Poster for Mother-night](images/book-club_Mother-night.jpg)
+17.04.2026 - Герман Гессе "Степной волк"
+
+27.03.2026 - Курт Воннегут "Мать Тьма"
+
+27.02.2026 - Фёдор Достоевский "Бедные люди"
+
 ![Poster for Chevengur](images/book-club_Chevengur.jpg)
+![Poster for Mother-night](images/book-club_Mother-night.jpg)
+![Poster for Steppenwolf](images/book-club_Steppenwolf.jpg)
+
+

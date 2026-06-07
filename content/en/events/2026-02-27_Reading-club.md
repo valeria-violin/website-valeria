@@ -8,14 +8,18 @@ title: "Reading club"
 
 We organize a monthly reading club.
 
-27.02.2026 - Fyodor Dostoevsky "Poor Folk"
+31.07.2026 - Fyodor Dostoevsky "The Idiot"
 
-27.03.2026 - Kurt Vonnegut "Mother Night"
-
-17.04.2026 - Hermann Hesse "Der Steppenwolf"
+26.06.2026 - Stanisław Lem "The Sum of Technology"
 
 29.05.2026 - Andrey Platonov "Chevengur"
 
-![Poster for Steppenwolf](images/book-club_Steppenwolf.jpg)
-![Poster for Mother-night](images/book-club_Mother-night.jpg)
+17.04.2026 - Hermann Hesse "Der Steppenwolf"
+
+27.03.2026 - Kurt Vonnegut "Mother Night"
+
+27.02.2026 - Fyodor Dostoevsky "Poor Folk"
+
 ![Poster for Chevengur](images/book-club_Chevengur.jpg)
+![Poster for Mother-night](images/book-club_Mother-night.jpg)
+![Poster for Steppenwolf](images/book-club_Steppenwolf.jpg)
