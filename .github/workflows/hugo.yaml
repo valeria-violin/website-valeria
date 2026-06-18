@@ -16,7 +16,6 @@ defaults:
     shell: bash
 jobs:
   build:
-    if: github.repository == 'rukav-swiss/website-rukav'
     runs-on: ubuntu-latest
     env:
       DART_SASS_VERSION: 1.97.2
@@ -96,7 +95,6 @@ jobs:
         with:
           path: ./public
   deploy:
-    if: github.repository == 'rukav-swiss/website-rukav'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
