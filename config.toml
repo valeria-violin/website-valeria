@@ -1,5 +1,5 @@
-title = "RuKAV Association"
-baseURL = "https://rukav-swiss.ch/"
+title = "Valeria Kurylchuk"
+baseURL = "rukav-swiss.ch/"
 languageCode = "en-us"
 theme = ["ananke"]
 resourceDir = "../resources"
@@ -14,12 +14,12 @@ enableRobotsTXT = true
 [languages]
 
   [languages.en]
-    title = "RuKAV"
+    title = "Valeria Kurylchuk"
     weight = 1
     contentDir = "content/en"
 
     [[languages.en.menu.main]]
-      name = "Home"
+      name = "About"
       url = "/en/"
       weight = 1
 
@@ -28,25 +28,16 @@ enableRobotsTXT = true
       url = "/en/events/"
       weight = 2
 
+
     [[languages.en.menu.main]]
-      name = "Join us"
-      url = "/en/join-us/"
+      name = "Music"
+      url = "/en/music/"
       weight = 3
 
     [[languages.en.menu.main]]
-      name = "Board"
-      url = "/en/board/"
+      name = "Art"
+      url = "/en/art/"
       weight = 4
-
-    [[languages.en.menu.main]]
-      name = "Documents"
-      url = "/en/documents/"
-      weight = 5
-
-    [[languages.en.menu.main]]
-      name = "Links"
-      url = "/en/links/"
-      weight = 6
 
     [[languages.en.menu.main]]
       name = "Contact"
@@ -55,68 +46,58 @@ enableRobotsTXT = true
 
      [[languages.en.menu.main]]
           name = "📸"
-          url = "https://instagram.com/rukav.swiss"
+          url = "https://instagram.com/valeriya.kurylchuk"
           weight = 90
           #pre = "<i class=\"fab fa-instagram\"></i>"   # optional Font Awesome icon
           params.newtab = true                         # custom param – we’ll use it later
 
     [[languages.en.menu.main]]
           name = "▶️"
-          url = "https://www.youtube.com/@Rukav-Swiss"
+          url = "https://www.youtube.com/channel/UChdIQpTAyZm53W43t3cd5XQ"
           weight = 91
           params.newtab = true                         # custom param – we’ll use it later
 
 
-  [languages.ru]
-    title = "РуКАВ"
+  [languages.de]
+    title = "Valeria Kurylchuk"
     weight = 2
-    contentDir = "content/ru"
+    contentDir = "content/de"
 
-    [[languages.ru.menu.main]]
-      name = "Главная"
-      url = "/ru/"
+    [[languages.de.menu.main]]
+      name = "Über"
+      url = "/de/"
       weight = 1
 
-    [[languages.ru.menu.main]]
-      name = "Мероприятия"
-      url = "/ru/events/"
+    [[languages.de.menu.main]]
+      name = "Veranstaltungen"
+      url = "/de/events/"
       weight = 2
 
-    [[languages.ru.menu.main]]
-      name = "Присоединиться"
-      url = "/ru/join-us/"
+    [[languages.de.menu.main]]
+      name = "Musik"
+      url = "/de/music/"
       weight = 3
 
-    [[languages.ru.menu.main]]
-      name = "Правление"
-      url = "/ru/board/"
+    [[languages.de.menu.main]]
+      name = "Kunst"
+      url = "/de/art/"
       weight = 4
 
-    [[languages.ru.menu.main]]
-      name = "Документы"
-      url = "/ru/documents/"
-      weight = 5
-
-  [[languages.ru.menu.main]]
-      name = "Ссылки"
-      url = "/ru/links/"
-      weight = 6
-
-   [[languages.ru.menu.main]]
-      name = "Контакты"
-      url = "/ru/contact/"
+   [[languages.de.menu.main]]
+      name = "Kontakte"
+      url = "/de/contact/"
       weight = 7
 
-    [[languages.ru.menu.main]]
+    [[languages.de.menu.main]]
       name = "📸"
-      url = "https://instagram.com/rukav.swiss"
+      url = "https://instagram.com/valeriya.kurylchuk"
       weight = 90
       #pre = "<i class=\"fab fa-instagram\"></i>"  # optional Font Awesome icon
       params.newtab = true                         # custom param – we’ll use it later
 
-    [[languages.ru.menu.main]]
+    [[languages.de.menu.main]]
       name = "▶️"
-      url = "https://www.youtube.com/@Rukav-Swiss"
+      url = "https://www.youtube.com/channel/UChdIQpTAyZm53W43t3cd5XQ"
       weight = 91
       params.newtab = true                         # custom param – we’ll use it later
 
@@ -129,8 +110,8 @@ filename = "sitemap.xml"
 [params]
 text_color = "black" #"white"
 author = ""
-favicon = "images/rukav_logo_square-transparent.png"
-site_logo = "images/rukav_logo_square-transparent.png"
+favicon = "" # images/favicon_photo-5.jpg
+site_logo = ""
 description = "The last theme you'll ever need. Maybe."
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-dark-blue"

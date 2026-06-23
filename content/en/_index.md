@@ -4,32 +4,15 @@ description: ""
 unsafe: false   # <‑‑ enable raw HTML just for this page
 ---
 
-# About the Association
+# About Valeria Kurilchuk, Violin
 
-**RuKAV** - ("Sleeve" in Russian) - is a "Russian-speaking Cultural and Academic Association" 
-based in Zurich, Switzerland (abbreviation from the German name "**Ru**ssischsprechender 
-**K**ultureller und **A**kademischer **V**erein"). It was founded on 19.07.2025.
+![1](images/photo-1.jpg)
 
-## Goals
+Violinist Valeria Kurilchuk is active as a soloist and chamber musician, performing widely across Switzerland, Europe, and Asia. Her repertoire spans classical masterworks to contemporary music.
 
-As stated in our [statutes]({{< relref "documents.md" >}}), the RuKAV is a not commercially, politically, or religiously motivated association, which pursues the following goals:
+She has appeared as a soloist with orchestras throughout Europe and has been awarded prizes at various international music competitions. An engaged chamber musician and concertmaster in selected orchestral projects, she regularly collaborates in both classical and contemporary productions.
 
-1. To facilitate connections among students and academics, and others who share common interests, values, and deep connection to the Russian language, promoting collaboration and mutual support within the academic and professional communities in Zurich
+Valeria completed her studies at the Lucerne University of Applied Sciences and Arts, the Bern University of the Arts, and the Zurich University of the Arts. She is also the creator of Valeria’s World, an interdisciplinary project combining music, painting, composition, and animation.
 
-2. To welcome new Russian-speaking members of ETH, UZH, and other higher education or research institutions in Zurich and facilitate their integration
-
-3. To provide assistance and protection when the rights or interests of Russian-speaking academics are violated
-
-4. To represent members of the association and their interests at meetings with other students, academics, associations, and institutions across Switzerland
-
-5. To establish connections between academic and cultural institutions in Zurich (and across Switzerland) and in Russian-speaking countries, enhancing mutual exchange
-
-6. To organize events that promote cultures of Russian-speaking countries  within research institutions in Zurich
-
-7. To bring together like-minded Russian-speaking people for joint events, cultural exchange, and open communication at research institutions in Zurich
-
-8. To organize educational, social, cultural, sports, and other activities for both members of the association and the general public, fostering an inclusive community
-
-9. To promote and teach the Russian language to individuals who do not speak it but have a strong interest in learning
-
-10. To foster an understanding of Russian-speaking countries' history, culture, and unique aspects among students at ETH, UZH, and other higher education and research institutions in Zurich
+![1](images/photo-3.jpg)
+![1](images/photo-4.jpg)
