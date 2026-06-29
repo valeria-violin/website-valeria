@@ -1,11 +1,11 @@
 :root {
-  --bg-color: #001f3f;
-  --text-color: #eeeeee;
-  --header-bg: #001f3f;
-  --link-color: #cccccc;
+  --bg-color: #31004a;
+  --text-color: #f3e5f5;
+  --header-bg: #4c00a4;
+  --link-color: #e1bee7;
   --link-hover-color: #ffffff;
-  --input-bg: #002f5f;
-  --button-bg: #003366;
+  --input-bg: #4c00a4;
+  --button-bg: #6a1b9a;
 }
 
 [data-theme="light"] {
@@ -24,7 +24,7 @@ body, .bg-near-white {
   transition: background-color 0.3s, color 0.3s;
 }
 
-.bg-dark-blue {
+.bg-dark-purple, .bg-dark-blue {
   background-color: var(--header-bg) !important;
 }
 
