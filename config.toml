@@ -1,5 +1,5 @@
 title = "Valeria Kurilchuk"
-baseURL = "valeriaviolin.com/"
+baseURL = "https://valeriaviolin.com/"
 languageCode = "en-us"
 theme = ["ananke"]
 resourceDir = "../resources"
