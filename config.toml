@@ -1,5 +1,5 @@
 title = "Valeria Kurilchuk"
-baseURL = "rukav-swiss.ch/"
+baseURL = "valeriaviolin.com/"
 languageCode = "en-us"
 theme = ["ananke"]
 resourceDir = "../resources"
@@ -46,7 +46,7 @@ enableRobotsTXT = true
 
      [[languages.en.menu.main]]
           name = "📸"
-          url = "https://instagram.com/valeriya.kurylchuk"
+          url = "https://instagram.com/valeria.violin"
           weight = 90
           #pre = "<i class=\"fab fa-instagram\"></i>"   # optional Font Awesome icon
           params.newtab = true                         # custom param – we’ll use it later
@@ -90,7 +90,7 @@ enableRobotsTXT = true
 
     [[languages.de.menu.main]]
       name = "📸"
-      url = "https://instagram.com/valeriya.kurylchuk"
+      url = "https://instagram.com/valeria.violin"
       weight = 90
       #pre = "<i class=\"fab fa-instagram\"></i>"  # optional Font Awesome icon
       params.newtab = true                         # custom param – we’ll use it later
