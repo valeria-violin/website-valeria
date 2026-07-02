@@ -119,6 +119,9 @@ recent_posts_number = 3
 
 custom_css = ["css/custom.css"]
 
+canonifyURLs = true
+relativeURLs = false
+
 [params.events]
   showUpcoming = true
   maxDisplay = 5
